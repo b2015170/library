@@ -6,7 +6,7 @@ String author
 String isbn
 Date dateBorrowed
 Date returnDate
-String student
+Student student
     static constraints = {
     }
 }

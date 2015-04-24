@@ -4,7 +4,7 @@ class Student {
 String name
 String email
 Integer studentId
-String course
+Course course
     static constraints = {
     }
 }
